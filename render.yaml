@@ -10,7 +10,7 @@ services:
     autoDeploy: false
     envVars:
       - key: SESSION_ID
-        sync: Ethix-MD&R2z8SzWT
+        sync: false
       - key: STATUS_VIEW_SEEN
         value: true
       - key: MODE
